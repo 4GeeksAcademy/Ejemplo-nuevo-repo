@@ -3,8 +3,6 @@ import React from "react";
 //include images into your bundle
 import rigoImage from "../../img/rigo-baby.jpg";
 
-// Esto es un nuevo comentario
-
 //create your first component
 const Home = () => {
 	return (
